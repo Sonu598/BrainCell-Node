@@ -3,6 +3,9 @@
 ## Overview
 This is a simple RESTful API built with Node.js and Express that retrieves user data from [JSONPlaceholder](https://jsonplaceholder.typicode.com/users) and provides filtering and sorting capabilities.
 
+## GitHub Backend Link : https://github.com/Sonu598/BrainCell-Node
+## Deployed Backend Link : https://braincell-node.onrender.com
+
 ## Features
 - Fetches user data from an external API.
 - Supports filtering users by name (case-insensitive, partial match).
