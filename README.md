@@ -27,8 +27,8 @@ Ensure you have Node.js (latest LTS recommended) installed on your system.
 ### Query Parameters
 | Parameter | Type   | Description |
 |-----------|--------|-------------|
-| `name`   | String | (Optional) Filter users by name (case-insensitive, supports partial match) |
-| `sort`   | String | (Optional) Sort users by name (`asc` or `desc`) |
+| `name`   | String | Filter users by name (case-insensitive, supports partial match) |
+| `sort`   | String | Sort users by name (`asc` or `desc`) |
 
 ### Example Requests
 ```# Fetch all users```
